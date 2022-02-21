@@ -59,10 +59,14 @@ O cálculo do imposto de renda mensal é realizado a partir dos seguintes passos
   
 **A interface pode ser Console, Web ou API (mais simples possível sendo necessária apenas para interação com o sistema)*
 
+- As tabelas [Tabela 1](#tabela-1---inss-2019) e [Tabela 2](#tabela-2---irpf-2019) devem ser modeladas e consultadas utilizando um Banco de Dados (qualquer um de sua preferência), e uma breve explicação da escolha de tal modelagem. 
+
+
 ### Tecnologias Obrigatórias
 
   - Java (versão 8 ou superior)
   - Junit (versão 4.12 ou superior)
+  - Banco de Dados (SQL ou NoSQL)
   - Maven (versão 3.6.1 ou superior)
 
 ## Exemplos
